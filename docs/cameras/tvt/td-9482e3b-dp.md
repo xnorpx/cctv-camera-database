@@ -1,0 +1,41 @@
+# TVT Digital TD-9482E3B-DP
+
+| Field | Spec |
+|-------|------|
+| Brand | TVT Digital |
+| Model | TD-9482E3B-DP |
+| Type | panoramic |
+| Connectivity | ethernet |
+| Resolution | 8MP panoramic (8MP, 4640×1760) |
+| Sensor | 1/2.7" CMOS x2 |
+| Lens | 2× 2.8mm F1.6 |
+| Field of view | 180 horizontal° |
+| Night vision | hybrid (30m), 0.0032 lux color |
+| Power | DC12V / PoE (IEEE 802.3af) |
+| Storage | microSD ≤ 256GB, NVR |
+| Protocols | onvif, rtsp, http |
+| IP rating | IP66 |
+| Two-way audio | Yes |
+| Operating temp | -30 to 60°C |
+
+## Features
+
+- dual-lens 180 panoramic stitching
+- warm light + IR dual illumination
+- digital WDR
+- human/vehicle classification
+- line crossing detection
+- region intrusion detection
+- loitering detection
+- illegal parking detection
+- abandoned/missing object detection
+- face detection
+- heat map
+- PoE
+
+## Sources
+
+- https://en.tvt.net.cn/products/1801.html
+
+---
+*Auto-generated from tvt-td-9482e3b-dp.json — do not edit by hand.*

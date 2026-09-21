@@ -22,7 +22,7 @@
 
 - MOBOTIX 7 dual-sensor
 - 2x interchangeable heads
-- 180° panoramic
+- 180 panoramic
 - on-camera AI Certified Apps
 - microSD up to 2TB
 - IP66

@@ -1,9 +1,9 @@
-# Bosch DINION 7100i IR (NBE-7702-ALX) — Bullet 2MP HDR X 4.7-10mm IP66/67 IK10
+# Bosch DINION 7100i IR (NBE-7702-ALX) - Bullet 2MP HDR X 4.7-10mm IP66/67 IK10
 
 | Field | Spec |
 |-------|------|
 | Brand | Bosch |
-| Model | DINION 7100i IR (NBE-7702-ALX) — Bullet 2MP HDR X 4.7-10mm IP66/67 IK10 |
+| Model | DINION 7100i IR (NBE-7702-ALX) - Bullet 2MP HDR X 4.7-10mm IP66/67 IK10 |
 | Type | bullet |
 | Connectivity | ethernet |
 | Resolution | HD 1080p (2.1MP, 1920×1080) |

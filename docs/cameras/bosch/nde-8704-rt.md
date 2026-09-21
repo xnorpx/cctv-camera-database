@@ -12,10 +12,11 @@
 | Field of view | 36-12° |
 | Night vision | color, 0.0885 lux color |
 | Power | PoE (IEEE 802.3af/at), 12-26 VDC, 24 VAC |
-| Storage | NVR |
+| Storage | microSD ≤ 2000GB, NVR |
 | Protocols | onvif, rtsp |
 | IP rating | IP66/IP67/IP6K9K |
 | IK rating | IK11 |
+| Operating temp | -50 to 60°C |
 
 ## Streams
 

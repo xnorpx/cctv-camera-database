@@ -1,9 +1,9 @@
-# Bosch FLEXIDOME 8100i — X series (NDE-8704-RX)
+# Bosch FLEXIDOME 8100i - X series (NDE-8704-RX)
 
 | Field | Spec |
 |-------|------|
 | Brand | Bosch |
-| Model | FLEXIDOME 8100i — X series (NDE-8704-RX) |
+| Model | FLEXIDOME 8100i - X series (NDE-8704-RX) |
 | Type | dome |
 | Connectivity | ethernet |
 | Resolution | 4K UHD (8.3MP, 3840×2160) |

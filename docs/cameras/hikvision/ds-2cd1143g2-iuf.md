@@ -38,7 +38,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2CD1143G2-IUF.pdf
+- https://assets.hikvision.com/prd/public/all/doc/m000062012/DS-2CD1143G2-IUF_Datasheet_V5.7.1_20221216.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd1143g2-iuf.json — do not edit by hand.*

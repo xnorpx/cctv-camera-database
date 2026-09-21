@@ -39,7 +39,7 @@
 
 ## Sources
 
-- https://amcrest.com/4k-poe-camera-turret-ai-ip8m-2779ew-ai.html
+- https://support.amcrest.com/hc/en-us/articles/10802469825549-Technical-Specifications-IP8M-2779EW-AI
 
 ---
 *Auto-generated from amcrest-ip8m-2779ew-ai.json — do not edit by hand.*

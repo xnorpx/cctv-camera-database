@@ -40,7 +40,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2DE5225W-AE3T5.pdf
+- https://assets.hikvision.com/prd/public/all/doc/m000052503/Datasheet-of-DS-2DE5225W-AE3T5_V5.7.1_20220704.pdf
 
 ---
 *Auto-generated from hikvision-ds-2de5225w-ae3t5.json — do not edit by hand.*

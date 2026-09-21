@@ -42,7 +42,7 @@
 
 ## Sources
 
-- https://amcrest.com/2mp-poe-camera-ptz-optical-zoom-ai-ip2m-863ew-ai-v3.html
+- https://support.amcrest.com/hc/en-us/articles/24292357521677-Technical-Specifications-IP2M-863EW-AI-V3
 
 ---
 *Auto-generated from amcrest-ip2m-863ew-ai-v3.json — do not edit by hand.*

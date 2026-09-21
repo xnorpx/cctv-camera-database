@@ -1,9 +1,9 @@
-# Bosch FLEXIDOME 8100i — X series (NDE-8702-RXT)
+# Bosch FLEXIDOME 8100i - X series (NDE-8702-RXT)
 
 | Field | Spec |
 |-------|------|
 | Brand | Bosch |
-| Model | FLEXIDOME 8100i — X series (NDE-8702-RXT) |
+| Model | FLEXIDOME 8100i - X series (NDE-8702-RXT) |
 | Type | dome |
 | Connectivity | ethernet |
 | Resolution | Full HD 1080p (2MP) (2.1MP, 1920×1080) |

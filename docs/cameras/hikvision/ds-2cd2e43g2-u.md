@@ -34,7 +34,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2CD2E43G2-U.pdf
+- https://assets.hikvision.com/prd/normal/all/doc/sm000058879/DS-2CD2E43G2-U_Datasheet_20231116.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd2e43g2-u.json — do not edit by hand.*

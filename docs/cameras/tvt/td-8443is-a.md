@@ -20,7 +20,7 @@
 
 ## Features
 
-- 360° pan / 90° tilt
+- 360 pan / 90 tilt
 - 25x optical zoom
 - smart IR
 - H.265 compression

@@ -1,9 +1,9 @@
-# Bosch MIC IP fusion 9000i — PTZ thermal QVGA-19mm 2MP 30x 9Hz, gray (MIC-9502-Z30GQS)
+# Bosch MIC IP fusion 9000i - PTZ thermal QVGA-19mm 2MP 30x 9Hz, gray (MIC-9502-Z30GQS)
 
 | Field | Spec |
 |-------|------|
 | Brand | Bosch |
-| Model | MIC IP fusion 9000i — PTZ thermal QVGA-19mm 2MP 30x 9Hz, gray (MIC-9502-Z30GQS) |
+| Model | MIC IP fusion 9000i - PTZ thermal QVGA-19mm 2MP 30x 9Hz, gray (MIC-9502-Z30GQS) |
 | Type | ptz |
 | Connectivity | ethernet |
 | Resolution | 1080p (Full HD) (2.13MP, 1920×1080) |

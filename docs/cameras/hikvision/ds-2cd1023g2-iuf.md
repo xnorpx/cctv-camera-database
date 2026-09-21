@@ -34,7 +34,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2CD1023G2-IUF.pdf
+- https://assets.hikvision.com/prd/public/all/doc/sm000041029/DS-2CD1023G2-IUF_Datasheet_V5.7.1_20221212.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd1023g2-iuf.json — do not edit by hand.*

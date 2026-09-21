@@ -23,7 +23,7 @@
 - dual-sensor: fixed 8MP panoramic + 4MP 10x-optical PTZ
 - Starlight color + white light
 - active deterrence (red/blue lights + siren)
-- 345° pan
+- 345 pan
 - smart auto-tracking (Auto Tracking Lite / WizTracking)
 - human/vehicle classification
 

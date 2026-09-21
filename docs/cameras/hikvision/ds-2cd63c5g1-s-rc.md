@@ -37,7 +37,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2CD63C5G1-S_RC.pdf
+- https://assets.hikvision.com/prd/public/all/doc/m000071624/DS-2CD63C5G1-S_RC_Datasheet_20231113.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd63c5g1-s-rc.json — do not edit by hand.*

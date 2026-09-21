@@ -36,7 +36,7 @@
 
 ## Sources
 
-- https://commerce.boschsecurity.com/us/en/Cameras/c/10164917899
+- https://resources.keenfinity.tech/public/documents/NBI_7803_AXT_Data_sheet_enUS_172775793291.pdf
 
 ---
 *Auto-generated from bosch-nbi-7803-axt.json — do not edit by hand.*

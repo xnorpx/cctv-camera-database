@@ -41,6 +41,7 @@
 
 ## Sources
 
+- https://www.axis.com/dam/public/38/7b/2a/datasheet-axis-m3077-plve-network-camera-en-US-470367.pdf
 - https://www.axis.com/products/axis-m3077-plve
 
 ---

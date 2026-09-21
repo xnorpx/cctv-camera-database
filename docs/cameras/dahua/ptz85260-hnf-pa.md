@@ -31,7 +31,7 @@
 - positioning system PTZ
 - 60x optical zoom
 - 400m IR
-- 360° endless pan
+- 360 endless pan
 - face recognition
 - video metadata
 - perimeter protection (IVS tripwire/intrusion)

@@ -30,7 +30,7 @@
 
 ## Sources
 
-- https://manuals.plus/m/0e529842b08fb9f3e1973ce125608f709ac07da8bd51767628839f8b6c847298
+- https://assets.hikvision.com/prd/normal/all/doc/sm000064803/DS-2CD2063G2-LI_Datasheet_20260128.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd2063g2-li.json — do not edit by hand.*

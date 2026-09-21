@@ -38,7 +38,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2DE3404W-DET5.pdf
+- https://assets.hikvision.com/prd/public/all/doc/m000051877/Datasheet-of-DS-2DE3404W-DET5_V5.7.1_20220927.pdf
 
 ---
 *Auto-generated from hikvision-ds-2de3404w-det5.json — do not edit by hand.*

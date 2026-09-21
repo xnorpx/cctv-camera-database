@@ -34,7 +34,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2CD1047G0-LUF.pdf
+- https://assets.hikvision.com/prd/public/all/doc/m000050701/DS-2CD1047G0-LUF-C_Datasheet_20240801.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd1047g0-luf.json — do not edit by hand.*

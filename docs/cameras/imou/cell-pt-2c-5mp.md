@@ -13,6 +13,7 @@
 | Power | 5000mAh rechargeable battery + included 3W solar panel (charges to -10C); USB-C charging |
 | Protocols | http |
 | Two-way audio | Yes |
+| Operating temp | -20 to 50°C |
 
 ## Streams
 

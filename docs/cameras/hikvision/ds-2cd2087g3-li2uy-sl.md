@@ -33,7 +33,7 @@
 
 ## Sources
 
-- https://www.scribd.com/document/871805500/Hikvision-Pricelist-28th-April-2025
+- https://assets.hikvision.com/prd/normal/all/doc/sm000077849/DS-2CD2087G3-LI2UY_SL_Datasheet_20260128.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd2087g3-li2uy-sl.json — do not edit by hand.*

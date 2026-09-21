@@ -34,7 +34,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2CD1347G2H-LIUF.pdf
+- https://assets.hikvision.com/prd/public/all/doc/sm000059809/DS-2CD1347G2H-LIUF_Datasheet_20240527.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd1347g2h-liuf.json — do not edit by hand.*

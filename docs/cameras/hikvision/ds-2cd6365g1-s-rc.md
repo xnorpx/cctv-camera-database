@@ -36,7 +36,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2CD6365G1-S_RC.pdf
+- https://assets.hikvision.com/prd/public/all/doc/m000071625/DS-2CD6365G1-S_RC_Datasheet_20231113.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd6365g1-s-rc.json — do not edit by hand.*

@@ -37,7 +37,7 @@
 
 ## Sources
 
-- https://download.axilogi.com/Hikvision/Datasheet/DS-2CD2147G2-SU-C.pdf
+- https://assets.hikvision.com/prd/normal/all/doc/sm000058350/DS-2CD2147G2-SU-C_Datasheet_V5.5.112_20230418.pdf
 
 ---
 *Auto-generated from hikvision-ds-2cd2147g2-su.json — do not edit by hand.*
